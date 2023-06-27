@@ -54,8 +54,8 @@ jobs:
       - name: Deploy Web
         uses: peaceiris/actions-gh-pages@v3
         with:
-            DEPLOY_KEY: ${{ secrets.PAGE_DEPLOY_SSH_ED25519 }}
-            EXTERNAL_REPOSITORY: WongPuiYan/WongPuiYan.github.io
-            PUBLISH_BRANCH: main
-            PUBLISH_DIR: ./public
+            deploy_key: ${{ secrets.PAGE_DEPLOY_SSH_ED25519 }}
+            external_repository: WongPuiYan/WongPuiYan.github.io
+            publish_branch: main
+            publish_dir: ./public
             commit_message: ${{ github.event.head_commit.message }}
