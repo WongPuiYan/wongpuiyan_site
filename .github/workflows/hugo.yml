@@ -54,7 +54,7 @@ jobs:
       - name: Deploy Web
         uses: peaceiris/actions-gh-pages@v3
         with:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            PERSONAL_TOKEN: ${{ secrets.Page_Deploy_Person_Token }}
             EXTERNAL_REPOSITORY: WongPuiYan/WongPuiYan.github.io
             PUBLISH_BRANCH: main
             PUBLISH_DIR: ./public
