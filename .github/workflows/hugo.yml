@@ -39,7 +39,7 @@ jobs:
       - name: Deploy Web
         uses: peaceiris/actions-gh-pages@v3
         with:
-            deploy_key: ${{ secrets.PAGE_DEPLOY_SSH_ED25519 }}
+            personal_token: ${{ secrets.PAGE_DEPLOY_PERSONAL_TOKEN }}
             external_repository: WongPuiYan/WongPuiYan.github.io
             publish_branch: main
             publish_dir: ./public
