@@ -1,11 +1,15 @@
 ---
-title: "24 Swap Nodes in Pairs"
+title: "两两交换链表中的节点"
 date: 2023-07-04T00:33:59+08:00
 draft: false
 categories: ["算法",]
 tags: ["链表",]
 ---
 
+## leetcode 24. 两两交换链表中的节点
+给你一个链表，两两交换其中相邻的节点，并返回交换后链表的头节点。你必须在不修改节点内部的值的情况下完成本题（即，只能进行节点交换）。
+
+<!--more-->
 
 ```python
 # Definition for singly-linked list.
