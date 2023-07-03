@@ -3,7 +3,7 @@ title: "设计链表"
 date: 2023-07-02T00:07:35+08:00
 draft: false
 categories: ["算法",]
-tags: ["链表",]
+tags: ["链表", "单双链表"]
 ---
 
 ## Leetcode 707. 设计链表

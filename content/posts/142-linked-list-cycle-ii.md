@@ -1,7 +1,9 @@
 ---
-title: "142 Linked List Cycle Ii"
+title: "环形链表 II"
 date: 2023-07-04T00:58:15+08:00
-draft: true
+draft: false
+categories: ["算法",]
+tags: ["链表", "双指针", "快慢指针"]
 ---
 
 ## Leetcode 142. 环形链表 II

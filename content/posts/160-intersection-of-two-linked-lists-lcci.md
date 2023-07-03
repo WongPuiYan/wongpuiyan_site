@@ -1,7 +1,9 @@
 ---
 title: "链表相交"
 date: 2023-07-04T00:43:03+08:00
-draft: true
+draft: false
+categories: ["算法",]
+tags: ["链表", "双指针"]
 ---
 
 ## Leetcode 160. 链表相交 (同面试题02.07)
