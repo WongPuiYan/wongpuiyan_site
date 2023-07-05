@@ -1,9 +1,9 @@
 ---
-title: "1 Two Sum"
+title: "两数之和"
 date: 2023-07-05T21:58:58+08:00
 draft: false
 categories: ["算法",]
-tags: ["链表", "双指针", "快慢指针"]
+tags: ["哈希表",]
 ---
 
 ## 1. 两数之和
