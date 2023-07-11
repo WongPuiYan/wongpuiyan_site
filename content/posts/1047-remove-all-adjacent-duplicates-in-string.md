@@ -1,9 +1,9 @@
 ---
-title: "1047 Remove All Adjacent Duplicates in String"
+title: "删除字符串中的所有相邻重复项"
 date: 2023-07-11T20:28:13+08:00
 draft: false
 categories: ["算法",]
-tags: ["栈", "队列"]
+tags: ["栈", "队列", "双指针"]
 ---
 
 ## 1047. 删除字符串中的所有相邻重复项
