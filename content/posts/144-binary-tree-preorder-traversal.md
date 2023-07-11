@@ -1,5 +1,5 @@
 ---
-title: "144 Binary Tree Preorder Traversal"
+title: "二叉树的前序遍历"
 date: 2023-07-11T23:42:02+08:00
 draft: false
 categories: ["算法",]
@@ -8,6 +8,8 @@ tags: ["树", "二叉树", "递归"]
 
 ## 144. 二叉树的前序遍历
 给你二叉树的根节点 root ，返回它节点值的 前序 遍历。
+
+<!--more-->
 
 ```python
 # Definition for a binary tree node.

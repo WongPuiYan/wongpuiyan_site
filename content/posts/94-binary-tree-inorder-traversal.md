@@ -1,5 +1,5 @@
 ---
-title: "94 Binary Tree Inorder Traversal"
+title: "二叉树的中序遍历"
 date: 2023-07-11T23:43:07+08:00
 draft: false
 categories: ["算法",]
@@ -8,6 +8,8 @@ tags: ["树", "二叉树", "递归"]
 
 ## 94. 二叉树的中序遍历
 给定一个二叉树的根节点 root ，返回 它的 中序 遍历 。
+
+<!--more-->
 
 ```python
 # Definition for a binary tree node.
