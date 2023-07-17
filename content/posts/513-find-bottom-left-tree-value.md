@@ -1,7 +1,9 @@
 ---
 title: "找树左下角的值"
 date: 2023-07-17T23:26:26+08:00
-draft: true
+draft: false
+categories: ["算法",]
+tags: ["树", "二叉树", "递归", "广度优先遍历"]
 ---
 
 ## Leetcode 513. 找树左下角的值
